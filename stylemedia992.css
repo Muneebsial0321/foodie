@@ -1,0 +1,15 @@
+@media (max-width: 992px) {
+#navdiv{
+    display: flex;
+    flex-direction: column;
+}
+    #form{
+        display: none!important;
+    }
+    #ordertime {
+
+        top: 240vh;
+    }
+
+
+}

@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+.jumbo{
+    top:-25vh!important;
+}
+    #ordertime{
+        top: 240vh;
+    }
+   .spFoodMarg{
+       margin: 15px;
+   }
+}

@@ -1,0 +1,235 @@
+/* width: 100vw */
+/* body{*/
+    /*} */
+    body{
+        padding: 0!important;
+        margin: 0!important;
+           background: black;
+           color: white;
+    width: 100vw!important;
+}
+.morgan{
+    height: 35% !important;
+    border-radius: 100px;
+
+}
+#specialh{
+    background: rgb(0, 0, 0);
+    padding: 10px;
+    color: #ffb87c;
+}
+#testimonialsh{
+    background: rgb(0, 0, 0);
+    padding: 18px;
+    color: #ffb87c;
+}
+#navicon{
+    /*background-color:white;*/
+  height: 35px;
+    width: 35px;
+    border-radius: 300px;
+}
+
+.text-large{
+    font-size: 1.5rem;
+}
+
+.themecolour:hover{
+    color: white;
+    background: #ffb87c;
+}
+#form{
+    border: 2px solid black;
+    position: relative;
+    right: 0;
+}
+.black{
+    color: black;
+}
+#logo{
+    border-radius: 100%;
+    height: auto;
+    width: 60px;
+    display: block;
+    position: relative;
+    left: 8px;
+}
+header{
+    margin-bottom: 66px;
+}
+nav{
+    z-index: 10;
+}
+.li{
+    margin: 0 4px;
+}
+.li a{
+    color: #ffb87c!important;
+    font-weight: bolder!important;
+    font-size: 25px!important;
+    transition: all .3s ease-in-out!important;
+}
+.li a:hover{
+    font-size: 27px!important;
+    background:#ffb87c !important;
+    border-radius: 100px!important;
+    color: white!important;
+    text-decoration: underline!important;
+}
+
+#calltoaction{
+    z-index: -2;
+    background: url("bgheaderimg.jpg") no-repeat center center /cover;
+    background-attachment: fixed;
+    /*background: rgba(0, 0, 0, 0.48);*/
+
+    /* position: absolute!important;
+    top: 0!important;
+overflow: auto; */
+    height: 80vh;
+    width: 100vw;
+}
+.mybtn{
+    background: rgba(10, 4, 4, 0.29);
+    color: #ffb87c;
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 100px;
+    transition: all .3s ease-in-out;
+}
+.mybtn:hover{
+    font-size: 20px;
+    background: #fa6a00;
+    border-radius: 100px;
+    color: white;
+    text-decoration: underline;
+}
+
+#call{
+    margin: auto;
+    position: relative;
+    top: 40%;
+}
+#callp{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: white;
+    font-size: 2.5rem;
+}
+#ordernow{
+    background: url("Indian-Food-Samosa-Dish-HD-Wallpapers.jpg")no-repeat center center /cover;
+    background-attachment: fixed;
+
+    /*border: 2px solid black;*/
+    margin-top: 10px;
+    /* position: absolute;
+    top: 90vh; */
+    height: 80vh;
+    width: 100vw;
+}
+.ordernowoverlay{
+    color: white;
+    background: rgba(0, 0, 0, 0.66);
+    background-attachment: fixed;
+
+    /* position: absolu */
+
+    height: inherit;
+    width: 100vw;
+}
+#ordernowh1{
+    background: rgb(0, 0, 0);
+    color: #ffb87c;
+    margin-bottom: 8px;
+    text-align: center;
+    position: relative;
+    top: -14vh;
+    padding: 20px;
+    /* box-sizing: border-box; */
+    /*margin-bottom: 2vh;*/
+}
+#testimonials{
+    /*box-sizing: border-box;*/
+    overflow: hidden;
+    /* position: absolute;
+    top: 170vh; */
+    height: 70vh;
+    width: 100vw;
+
+}
+#ordertime{
+    background: url("Indian-Food-Samosa-Dish-HD-Wallpapers.jpg")no-repeat center center /cover;
+    background-attachment: fixed;
+    overflow: auto;
+    /* position: absolute;
+    top: 238vh; */
+    height: 80vh;
+    width: 100vw;
+
+}
+.theli a{
+    color:#ffb87c;
+}
+#specials{
+    /* box-sizing: border-box; */
+    background-attachment: fixed;
+    /* position: absolute;
+    top: 325vh; */
+    height: max-content;
+    width: 100vw;
+    /*border: 2px solid black;*/
+}
+.specialfoodimgburger{
+    width: 60%;
+    height: 60%;
+    background: #000;
+}.specialfoodimgpizza{
+    width: 60%;
+    height: 60%;
+    background: #000;
+}.specialfoodimglasagna{
+    width: 60%;
+    height: 60%;
+    background: #000;
+}
+
+#deliverytimei{
+
+    height: 50vh;
+    width: 100vw;
+    background: linear-gradient(89deg,#f36d0e,#ffffff00);
+    /*background-attachment: fixed;*/
+    /* position: absolute;
+   bottom: 0;
+} */
+.jumbo {
+    position: relative;
+    top: -3vh;
+    font-size: 20px;
+}
+#footer{
+    margin: 0;
+}
+#footp{
+    position: relative;
+    top: 0vh;
+}
+}
+p{
+    margin: 0 0 !important;
+}
+#theP{
+    padding: 39vh 0vh;
+}
+footer{
+    color: #ffb87c;
+}#ordernowoverlay{
+    color: white;
+    background: rgba(0, 0, 0, 0.66);
+    background-attachment: fixed;
+
+    /* position: absolu */
+
+    height:auto;
+    width: 100vw;
+}
